@@ -1,0 +1,54 @@
+/* Comment Code */
+.carousel-item {
+    height: 500px;
+}
+
+/* Comment Code */
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    margin: 20px;
+    color: white;
+}
+
+/* Comment Code */
+.featured-products {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+/* Comment Code */
+.product {
+    text-align: center;
+    margin: 20px;
+}
+
+/* Comment Code */
+.product img {
+    width: 200px;
+    height: 200px;
+}
+
+/* Comment Code */
+.product h2 {
+    margin: 10px;
+}
+
+/* Comment Code */
+.product p {
+    margin: 10px;
+}
+
+/* Comment Code */
+.contact-info {
+    text-align: center;
+    margin: 20px;
+}
+
+/* Comment Code */
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+}
